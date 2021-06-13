@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo hello1 $1!
+echo hello2 $1!
